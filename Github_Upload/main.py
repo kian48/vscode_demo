@@ -1,4 +1,4 @@
 def main():
-    print("Hi my name is Kian!")
+    print(name)
 
-main()
+main("Finn")
